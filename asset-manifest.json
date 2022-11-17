@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/artsite/static/css/main.e6c13ad2.css",
-    "main.js": "/artsite/static/js/main.8f29eb4b.js",
+    "main.js": "/artsite/static/js/main.efe182b9.js",
     "index.html": "/artsite/index.html",
     "main.e6c13ad2.css.map": "/artsite/static/css/main.e6c13ad2.css.map",
-    "main.8f29eb4b.js.map": "/artsite/static/js/main.8f29eb4b.js.map"
+    "main.efe182b9.js.map": "/artsite/static/js/main.efe182b9.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8f29eb4b.js"
+    "static/js/main.efe182b9.js"
   ]
 }
